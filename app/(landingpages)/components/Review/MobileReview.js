@@ -10,7 +10,6 @@ const MobileReview = ({ center }) => {
 
     // Ensure activeIndex is within bounds
     const isValidIndex = activeIndex >= 0 && activeIndex < filterReview.length;
-    const proxyUrl = "https://cors-anywhere.herokuapp.com/";
 
     return (
         <div className="flex max-w-md mx-auto mt-6">

@@ -211,11 +211,11 @@ const TreatmentsV2 = memo(({ center, service }) => {
         };
     }, [showModal]);
 
-    const handleClickOutside = (event) => {
-        if (modalRef.current && !modalRef.current.contains(event.target)) {
-            setShowModal(false); // Close the modal if clicked outside
-        }
-    };
+    // const handleClickOutside = (event) => {
+    //     if (modalRef.current && !modalRef.current.contains(event.target)) {
+    //         setShowModal(false); // Close the modal if clicked outside
+    //     }
+    // };
 
     const handleOptionClick = (e, index) =>{
         setSelectedTreatment(e.target.innerText);

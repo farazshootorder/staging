@@ -239,46 +239,46 @@ const review = [
       "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUmLGJZ9Lzd-qILCt4gdLl6M7xL743q4BoiVJhHy09GdE2BH5bhWQ=w56-h56-p-rp-mo-br100",
       "review_link": "https://maps.app.goo.gl/ryH671hiknmvZdNS9"
     },
-    {
-      "id": 25,
-      "center_name": "kompally",
-      "clinic_location": "kompally",
-      "rating": 5,
-      "review": "Best decison of our lives was to consult Meera ma'am. We had approached with minimum to zero hopes and ended up conceiving early than expected. Staff was very amicable and experienced. Thanks to Oasis kompally..",
-      "name": "Jarupula Vanditha",
-      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViJX9oQ9qwkdEpIgLUMQ4ij65aQ6lwQSMRhJynRW6r85umOgYR=w56-h56-p-rp-mo-br100",
-      "review_link": "https://maps.app.goo.gl/5XGSjn2JekPiXf1S9"
-    },
-    {
-      "id": 26,
-      "center_name": "kompally",
-      "clinic_location": "kompally",
-      "rating": 5,
-      "review": "చాలా బాగా రిసీవ్ చేసుకున్నారు చాలా కేర్ తీసుకున్నారు నేను ఒయాసిస్ వెళ్లిన తరువాత కచ్చితంగా మకు సాక్సేస్ అవుతుంది అని నమ్మను అది నిజం అయ్యింది అది ఒక good experience thank s to oasis kompally centar team thank you Dr Meera medam",
-      "name": "pavan thati",
-      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVus2iJKmiCvpXBr9o8gWNDBDgCd26yTQUy2bpoq7HlY2-V_fSyew=w56-h56-p-rp-mo-br100",
-      "review_link": "https://maps.app.goo.gl/MHprTCVZ5sEhLkm76"
-    },
-    {
-      "id": 27,
-      "center_name": "kompally",
-      "clinic_location": "kompally",
-      "rating": 5,
-      "review": "We are happy to have treatment & guidance for healthy conceiving in oasis Kompally Branch .. thanks to Dr.meera mam and Tejashree mam who treated & care ,She has sound experience that help lot. we loved the way of treating. we just followed whatever she suggested and advised. tejashree mam treated right things in the right time. Additionally, appreciating all nursing/staff for their involvement, suggestion and their efforts. Thanks to oasis team.",
-      "name": "HERITAGE of SHARING !",
-      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNVV8YharMC-nxNhyzS1reAODVxyPKdkaQmUMe1BJmIkESXL5y=w56-h56-p-rp-mo-br100",
-      "review_link": "https://maps.app.goo.gl/v2ARN6EZeyvDzeaS6"
-    },
-    {
-      "id": 28,
-      "center_name": "kompally",
-      "clinic_location": "kompally",
-      "rating": null,
-      "review": null,
-      "name": null,
-      "profile_picture": null,
-      "review_link": null
-    },
+    // {
+    //   "id": 25,
+    //   "center_name": "kompally",
+    //   "clinic_location": "kompally",
+    //   "rating": 5,
+    //   "review": "Best decison of our lives was to consult Meera ma'am. We had approached with minimum to zero hopes and ended up conceiving early than expected. Staff was very amicable and experienced. Thanks to Oasis kompally..",
+    //   "name": "Jarupula Vanditha",
+    //   "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViJX9oQ9qwkdEpIgLUMQ4ij65aQ6lwQSMRhJynRW6r85umOgYR=w56-h56-p-rp-mo-br100",
+    //   "review_link": "https://maps.app.goo.gl/5XGSjn2JekPiXf1S9"
+    // },
+    // {
+    //   "id": 26,
+    //   "center_name": "kompally",
+    //   "clinic_location": "kompally",
+    //   "rating": 5,
+    //   "review": "చాలా బాగా రిసీవ్ చేసుకున్నారు చాలా కేర్ తీసుకున్నారు నేను ఒయాసిస్ వెళ్లిన తరువాత కచ్చితంగా మకు సాక్సేస్ అవుతుంది అని నమ్మను అది నిజం అయ్యింది అది ఒక good experience thank s to oasis kompally centar team thank you Dr Meera medam",
+    //   "name": "pavan thati",
+    //   "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVus2iJKmiCvpXBr9o8gWNDBDgCd26yTQUy2bpoq7HlY2-V_fSyew=w56-h56-p-rp-mo-br100",
+    //   "review_link": "https://maps.app.goo.gl/MHprTCVZ5sEhLkm76"
+    // },
+    // {
+    //   "id": 27,
+    //   "center_name": "kompally",
+    //   "clinic_location": "kompally",
+    //   "rating": 5,
+    //   "review": "We are happy to have treatment & guidance for healthy conceiving in oasis Kompally Branch .. thanks to Dr.meera mam and Tejashree mam who treated & care ,She has sound experience that help lot. we loved the way of treating. we just followed whatever she suggested and advised. tejashree mam treated right things in the right time. Additionally, appreciating all nursing/staff for their involvement, suggestion and their efforts. Thanks to oasis team.",
+    //   "name": "HERITAGE of SHARING !",
+    //   "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNVV8YharMC-nxNhyzS1reAODVxyPKdkaQmUMe1BJmIkESXL5y=w56-h56-p-rp-mo-br100",
+    //   "review_link": "https://maps.app.goo.gl/v2ARN6EZeyvDzeaS6"
+    // },
+    // {
+    //   "id": 28,
+    //   "center_name": "kompally",
+    //   "clinic_location": "kompally",
+    //   "rating": null,
+    //   "review": null,
+    //   "name": null,
+    //   "profile_picture": null,
+    //   "review_link": null
+    // },
     {
       "id": 29,
       "center_name": "uppal",
@@ -359,46 +359,46 @@ const review = [
       "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJrkoJZO2hgnJOnGH3W6H4qVNdyaJRd0FI_tMnEtSYvPS06Sw=w56-h56-p-rp-mo-br100",
       "review_link": "https://maps.app.goo.gl/PwxwSTwERz6Y38CT9"
     },
-    {
-      "id": 37,
-      "center_name": "karimnagar",
-      "clinic_location": "karimnagar",
-      "rating": 5,
-      "review": "To Oasis fertility hospital, Karimnagar Full happy today,7years ago Iam pregnant iam not except today memory Irealy excited and fully happy Oasis staff, sister and doctors Thankyou somuch.",
-      "name": "Bandi Mamatha",
-      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ0aM72z0UR7aQxic9hXu43CGrS2P17Yevbx9t8jyCNOKXK0g=w56-h56-p-rp-mo-br100",
-      "review_link": "https://maps.app.goo.gl/zJBSZApFpMpoEvEZ8"
-    },
-    {
-      "id": 38,
-      "center_name": "karimnagar",
-      "clinic_location": "karimnagar",
-      "rating": null,
-      "review": null,
-      "name": null,
-      "profile_picture": null,
-      "review_link": null
-    },
-    {
-      "id": 39,
-      "center_name": "karimnagar",
-      "clinic_location": "karimnagar",
-      "rating": null,
-      "review": null,
-      "name": null,
-      "profile_picture": null,
-      "review_link": null
-    },
-    {
-      "id": 40,
-      "center_name": "karimnagar",
-      "clinic_location": "karimnagar",
-      "rating": null,
-      "review": null,
-      "name": null,
-      "profile_picture": null,
-      "review_link": null
-    }
+    // {
+    //   "id": 37,
+    //   "center_name": "karimnagar",
+    //   "clinic_location": "karimnagar",
+    //   "rating": 5,
+    //   "review": "To Oasis fertility hospital, Karimnagar Full happy today,7years ago Iam pregnant iam not except today memory Irealy excited and fully happy Oasis staff, sister and doctors Thankyou somuch.",
+    //   "name": "Bandi Mamatha",
+    //   "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ0aM72z0UR7aQxic9hXu43CGrS2P17Yevbx9t8jyCNOKXK0g=w56-h56-p-rp-mo-br100",
+    //   "review_link": "https://maps.app.goo.gl/zJBSZApFpMpoEvEZ8"
+    // },
+    // {
+    //   "id": 38,
+    //   "center_name": "karimnagar",
+    //   "clinic_location": "karimnagar",
+    //   "rating": null,
+    //   "review": null,
+    //   "name": null,
+    //   "profile_picture": null,
+    //   "review_link": null
+    // },
+    // {
+    //   "id": 39,
+    //   "center_name": "karimnagar",
+    //   "clinic_location": "karimnagar",
+    //   "rating": null,
+    //   "review": null,
+    //   "name": null,
+    //   "profile_picture": null,
+    //   "review_link": null
+    // },
+    // {
+    //   "id": 40,
+    //   "center_name": "karimnagar",
+    //   "clinic_location": "karimnagar",
+    //   "rating": null,
+    //   "review": null,
+    //   "name": null,
+    //   "profile_picture": null,
+    //   "review_link": null
+    // }
   ]
 
 export default review;

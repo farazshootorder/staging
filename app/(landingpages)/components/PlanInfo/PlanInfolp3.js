@@ -16,7 +16,7 @@ const PlanInfo = ({ isMeta, internal }) => {
     const [isSection2Expanded, setIsSection2Expanded] = useState(false);
     const [isSection3Expanded, setIsSection3Expanded] = useState(false);
     const [isSection4Expanded, setIsSection4Expanded] = useState(false);
-    const [showChoosPlanButton, setShowChoosePlanButton] = useState(false);
+    // const [showChoosPlanButton, setShowChoosePlanButton] = useState(false);
     const [showModal, setShowModal] = useState(false);
     const handleCloseModal = () => setShowModal(false);
     const handleOpenModal = () => setShowModal(true);

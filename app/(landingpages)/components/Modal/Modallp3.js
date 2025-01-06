@@ -2,7 +2,6 @@
 import React, { Suspense } from "react";
 import LeadFormV2 from "../LeadForm/LeadFormV2";
 import LeadFormlp3Meta from "../LeadForm/LeadFormlp3Meta";
-import { getNextInternalQuery } from "next/dist/server/request-meta";
 
 
 const ModalV2 = ({ isOpen, onClose, center, service, isMeta = false, internal }) => {

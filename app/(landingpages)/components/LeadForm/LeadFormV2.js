@@ -9,7 +9,7 @@ import Image from "next/image";
 
 
 
-const LeadFormV2 = ({center, service, internal = false}) => {
+const LeadFormV2 = ({ internal = false}) => {
 
   const [userDetails, setUserDetails] = useState({
     firstName: "",
