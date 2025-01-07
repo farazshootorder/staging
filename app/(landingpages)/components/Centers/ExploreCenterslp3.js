@@ -30,20 +30,22 @@ const ExploreCenterslp3 = ({ nearByCenters }) => {
             </div>
 
             {showCentre && (
-  <ul className='mt-8 grid  gap-2 items-center text-left
-                 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-4 max-w-[1400px] mx-auto'>
+                <ul className='mt-8 grid gap-y-2 sm:gap-x-20 lg:gap-x-40 items-center 
+                grid-cols-1 sm:grid-cols-2 lg:grid-cols-3
+                px-4 max-w-fit mx-auto
+                justify-items-start justify-center'>
     {nearByCenters &&
       nearByCenters.near_by_areas.length > 0 &&
       nearByCenters.near_by_areas.map((item, index) => (
         <li
-          className='text-primary mb-2 cursor-pointer '
+          className='text-primary mb-2 cursor-pointer w-fit'
           key={index}
           onClick={scrollToForm}
         >
           Best IVF Centre in {item}
         </li>
       ))}
-  </ul>
+</ul>
 )}
 
         </div>

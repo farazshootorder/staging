@@ -143,7 +143,7 @@ const CarouselItem = memo(({ item }) => (
             height={199}
             className="rounded-lg mx-auto w-full h-auto object-cover"
         />
-        <h3 className="mt-3 lg:text-[26px] text-[22px] leading-[1.1]">
+        <h3 className="mt-3 lg:text-[26px] text-[16px] leading-[1.1]">
             {item.title}
         </h3>
         <p className="mt-2 lg:text-base text-xs font-lato">

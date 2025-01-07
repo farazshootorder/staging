@@ -50,7 +50,7 @@ const IVFTreatmentlp3 = () => {
               height={199}
               className="rounded-xl mx-auto object-cover"
             />
-            <h3 className="mt-3 lg:text-[26px] text-[22px] leading-[1.1]">
+            <h3 className="mt-3 lg:text-[26px] text-[18px] leading-[1.1]">
               {item.title}
             </h3>
             <p className="mt-2 lg:text-base text-xs font-lato">

@@ -227,7 +227,7 @@ export default function IVFClinicSliderV2({ center, userAgentString, cityVideos,
                   </button>
                   <div className="relative z-10 aspect-[9/16] flex flex-col justify-end p-5 lg:py-8 bg-custom-gradient">
                     <div className="">
-                      <h4 className="lg:text-xl text-white text-center">
+                      <h4 className="text-[12px] lg:text-xl text-white text-center">
                         {video?.VideoTitleText}
                       </h4>
                     </div>
