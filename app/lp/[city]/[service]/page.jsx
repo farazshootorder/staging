@@ -2,6 +2,7 @@
 import masterlp3 from "@/util/lp/masterlp3";
 import newdoctorslp3 from "@/util/lp/newdoctorslp3";
 import testimonials from "@/util/lp/testimonials";
+import nearByAreas from "@/util/lp/nearByAreas";
 import { cityToVideos, videos } from "@/util/lp/videos";
 import dynamic from 'next/dynamic';
 
@@ -9,6 +10,7 @@ import dynamic from 'next/dynamic';
 import HeaderTesting from "@/app/(landingpages)/components/Header/HeaderTesting";
 
 import Herolp3 from "../../../(landingpages)/components/Hero/Herolp3";
+import { useMemo } from "react";
 
 
 // const StickyButtonScreenlp3 = dynamic(() => import('../../../(landingpages)/components/StickyButtonScreen/StickyButtonScreenlp3'), {
@@ -68,6 +70,10 @@ const Faqlp3 = dynamic(() => import('../../../(landingpages)/components/Faq/Faql
     ssr: true,
 });
 
+const ExploreCenterslp3 = dynamic(() => import('../../../(landingpages)/components/Centers/ExploreCenterslp3'), {
+    ssr: true,
+})
+
 const FooterV2 = dynamic(() => import('../../../(landingpages)/components/Footer/FooterV2'), {
     ssr: true,
 });
@@ -120,6 +126,8 @@ export default function Page({ params }) {
         }
         city = 'india';
     }
+    const nearByCenters = useMemo(() => nearByAreas.find((center)=> center.center_name === city), [city]); 
+
     const filteredCity = masterlp3.find((center) => center.center_name === city);
     // const filteredTestimonials = doctors.filter((testimonial) => {
     //     return filteredCity?.id === testimonial.master_id;
@@ -176,6 +184,7 @@ export default function Page({ params }) {
                 <PlanInfolp3 isMeta={isMeta} />
 
                 <Faqlp3 />
+                {city != 'india' && <ExploreCenterslp3 nearByCenters={nearByCenters} />}
                 <FooterStickyButtonlp3 center={filteredCity} />
             </main>
 

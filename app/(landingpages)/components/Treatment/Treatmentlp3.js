@@ -86,7 +86,7 @@ const OptimizedImage = memo(({ src, alt, ...props }) => (
         placeholder="blur"
         blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDABQODxIPDRQSEBIXFRQdHx4eHRsdHR8fIR0hISEdISEhISEhISEiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiL/wAARCAAIAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
         onError={(e) => {
-            e.currentTarget.src = '/images/lp/fallback.jpg';
+            // e.currentTarget.src = '/images/lp/fallback.jpg';
         }}
     />
 ));
@@ -198,16 +198,27 @@ const TreatmentsV2 = memo(({ center, service }) => {
         loadData();
     }, [activeTab]);
 
+    // Update the useEffect for click outside handling
     useEffect(() => {
         const handleClickOutside = (event) => {
-            if (showModal && modalRef.current && !modalRef.current.contains(event.target)) {
+            // Check if click is on the button itself
+            const button = event.target.closest('button');
+            if (button && button.contains(event.target)) {
+                return; // Don't do anything if clicking the button
+            }
+
+            // Close modal if clicking outside
+            if (modalRef.current && !modalRef.current.contains(event.target)) {
                 setShowModal(false);
             }
         };
-    
-        document.addEventListener("mousedown", handleClickOutside);
+
+        if (showModal) {
+            document.addEventListener('mousedown', handleClickOutside);
+        }
+
         return () => {
-            document.removeEventListener("mousedown", handleClickOutside);
+            document.removeEventListener('mousedown', handleClickOutside);
         };
     }, [showModal]);
 
@@ -217,12 +228,12 @@ const TreatmentsV2 = memo(({ center, service }) => {
     //     }
     // };
 
-    const handleOptionClick = (e, index) =>{
+    const handleOptionClick = (e, index) => {
         setSelectedTreatment(e.target.innerText);
         setShowModal(false);
         setActiveTab(index);
         setShowOtherTreatments(true);
-        
+
     }
 
     const handleButtonClick = (event) => {
@@ -250,45 +261,45 @@ const TreatmentsV2 = memo(({ center, service }) => {
 
             <div className="flex justify-center mt-6">
                 <div className="relative">
-                    <button 
-                    className="flex items-center justify-center gap-4 text-white bg-primary w-[280px] h-[40px] text-[16px] rounded-lg font-medium" 
-                    onClick={handleButtonClick}
+                
+                    <button
+                        className="flex items-center justify-center gap-4 text-white bg-primary w-[280px] h-[40px] text-[16px] rounded-lg font-medium"
+                        onClick={handleButtonClick}
                     >
                         {selectedTreatment}
-                        <span>{showModal ? <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12 11.3889L5.88889 1.61114L1 11.3889" stroke="#FDF4F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg> : <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M1 1.61111L5.88889 11.3889L12 1.61111" stroke="#FDF4F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                        }
+                        <span>
+                            {showModal ? <svg width="16" height="9" viewBox="0 0 16 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M1 7.92896L7.67713 1.25183C7.8947 1.03426 8.24744 1.03426 8.46501 1.25183L15.1421 7.92896" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                        </svg> : <svg width="16" height="9" viewBox="0 0 16 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M15.1426 1.07104L8.46545 7.74817C8.24788 7.96574 7.89514 7.96574 7.67757 7.74817L1.00044 1.07104" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+                        </svg>}
                         </span>
-
                     </button>
 
-                    {showModal && 
-                    <div 
-                    className="bg-white shadow-md rounded-lg absolute top-12 p-4  flex flex-col gap-4 w-full z-50"
-                    ref={modalRef}
-                    >
-                        {tabs.map((tab, index) => (
-                            <button
-                                key={index}
-                                className={`inline-block w-full py-2 xl:px-6 2xl:px-6 3xl:px-12 rounded-lg lg:rounded-xl border border-primary transition-all duration-300 
-                                ${selectedTreatment == tab ? 'bg-primary text-white' : 'text-primary hover:bg-primary/10' } `}
+                    {showModal &&
+                        <div
+                            className="bg-white shadow-md rounded-lg absolute top-12 p-4  flex flex-col gap-4 w-full z-50"
+                            ref={modalRef}
+                        >
+                            {tabs.map((tab, index) => (
+                                <button
+                                    key={index}
+                                    className={`inline-block w-full py-2 xl:px-6 2xl:px-6 3xl:px-12 rounded-lg lg:rounded-xl border border-primary transition-all duration-300 
+                                ${selectedTreatment == tab ? 'bg-primary text-white' : 'text-primary hover:bg-primary/10'} `}
                                     onClick={(e) => handleOptionClick(e, index)}
-                            >
-                                {tab}
-                            </button>
-                        ))}
-                    </div>}
+                                >
+                                    {tab}
+                                </button>
+                            ))}
+                        </div>}
 
 
                 </div>
             </div>
 
 
-            
-            
+
+
 
 
 

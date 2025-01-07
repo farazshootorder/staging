@@ -31,14 +31,14 @@ BannerSkeleton.displayName = "BannerSkeleton";
 // Constants
 const BANNER_IMAGES = {
   desktop: {
-    src: "/images/lp/lp3/Updated Desktop Banner.webp",
+    src: "/images/lp/lp3/desktop_banner_paidlp.webp",
     width: 1728,
     height: 787,
     className: "w-full object-cover absolute left-0 top-0 hidden md:block h-full",
     style: { objectPosition: "25% 0" }
   },
   mobile: {
-    src: "/images/lp/lp3/Mobile Banner.webp",
+    src: "/images/lp/lp3/mobile_banner_paidlp.webp",
     width: 428,
     height: 452,
     className: "w-full object-cover absolute left-0 -top-[40px] md:hidden h-full",

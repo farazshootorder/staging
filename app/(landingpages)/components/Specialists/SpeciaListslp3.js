@@ -91,15 +91,25 @@ const IVFSpecialistsV2 = ({ service, isMeta, internal }) => {
  const handleOpenModal = () => setShowModal(true);
  const handleCloseModal = () => setShowModal(false);
 
- const serviceTitle = service 
-   ? service === 'fertility' ? 'Fertility' : service.toUpperCase() 
-   : "IVF";
+ const gerServiceTitle = (service) =>{
+      switch (service) {
+        case "ivf":
+          return "IVF";
+        case "iui":
+          return "IUI";
+        case "fertility":
+          return "Fertility";
+        default:
+            return "IVF";
+      }
+ } 
+   
 
  return (
    <Suspense fallback={<div className="animate-pulse bg-gray-200 min-h-screen" />}>
      <div className="max-w-screen-4xl mx-auto px-4 lg:px-10 xl:px-14 2xl:px-20 mb-10 lg:mb-16">
        <h2 className="text-[22px] md:text-2xl lg:text-3xl xl:text-5xl 2xl:text-[52px] !leading-[1.2] font-bold text-primary text-center tracking-wide">
-         Best {serviceTitle} Specialists in India
+         Best {gerServiceTitle(service)} Specialists in India
        </h2>
 
        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 lg:gap-10 mt-5 md:mt-10">

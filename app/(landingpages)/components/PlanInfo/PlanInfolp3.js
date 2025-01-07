@@ -16,6 +16,8 @@ const PlanInfo = ({ isMeta, internal }) => {
     const [isSection2Expanded, setIsSection2Expanded] = useState(false);
     const [isSection3Expanded, setIsSection3Expanded] = useState(false);
     const [isSection4Expanded, setIsSection4Expanded] = useState(false);
+
+    const [isStarterBlur, setIsStarterBlur] = useState(true);
     // const [showChoosPlanButton, setShowChoosePlanButton] = useState(false);
     const [showModal, setShowModal] = useState(false);
     const handleCloseModal = () => setShowModal(false);
@@ -41,7 +43,10 @@ const PlanInfo = ({ isMeta, internal }) => {
                             <div className="">
                                 <h3 className="text-[28px] lg:text-3xl font-pattaya text-black">Starter</h3>
                                 <button
-                                    onClick={() => setIsSection1Expanded(!isSection1Expanded)}
+                                    onClick={() => {
+                                        setIsSection1Expanded(!isSection1Expanded)
+                                        setIsStarterBlur(!isStarterBlur);
+                                    }}
                                     className="lg:hidden flex items-center gap-1"
                                 >
                                     {isSection1Expanded ? 'Show Less' : 'Show More'}
@@ -49,7 +54,7 @@ const PlanInfo = ({ isMeta, internal }) => {
                                 </button>
                                 {/* <Image src="/images/lp/campaign/star_img.png" width={32} height={27} loading='lazy' alt="star image" /> */}
                             </div>
-                            <div className='block lg:hidden'>
+                            <div className={`block lg:hidden ${isStarterBlur ? 'blur-[5px] ' : ''}`}>
                                 <h3 className="text-lg lg:text-[25px] font-lato font-medium text-[#623162] line-through mt-2">
                                     ₹1,15,000
                                 </h3>
@@ -61,7 +66,7 @@ const PlanInfo = ({ isMeta, internal }) => {
                             </div>
                         </div>
 
-                        <div className='hidden lg:block'>
+                        <div className={`hidden lg:block`}>
                             <h3 className="text-xl lg:text-[25px] font-lato font-medium text-[#623162] line-through mt-2">
                                 ₹1,15,000
                             </h3>

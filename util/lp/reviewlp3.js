@@ -40,6 +40,16 @@ const review = [
       "review_link": "https://maps.app.goo.gl/FSjVCbewBBfNc3zf8"
     },
     {
+      "id": 41,
+      "center_name": "hyderabad",
+      "clinic_location": "miyapur",
+      "rating": 4.9,
+      "review": "Best IVF centre in hyderabad, strongly to go this center for fertility treatment",
+      "name": "Renuk Renuka",
+      "profile_picture": "/images/lp/review/profiles/hyd-renuka.png",
+      "review_link": "maps.app.goo.gl/FiYnims6MH4tzcTY8"
+    },
+    {
       "id": 5,
       "center_name": "banjara-hills",
       "clinic_location": "banjara hills",

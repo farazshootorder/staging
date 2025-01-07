@@ -29,15 +29,23 @@ const ExploreCenterslp3 = ({ nearByCenters }) => {
 
             </div>
 
-           {showCentre && <ul className='flex flex-col gap-2 mt-4 items-center'>
-                <div>
-                    { nearByCenters && nearByCenters.near_by_areas.length > 0 && nearByCenters.near_by_areas.map((item, index) => (
-                        <li className='text-primary mb-2 cursor-pointer' key={index} onClick={scrollToForm}>
-                            Best IVF Centre in {item}
-                        </li>
-                    ))}
-                </div>
-            </ul>}
+            {showCentre && (
+  <ul className='mt-8 grid  gap-2 items-center text-left
+                 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-4 max-w-[1400px] mx-auto'>
+    {nearByCenters &&
+      nearByCenters.near_by_areas.length > 0 &&
+      nearByCenters.near_by_areas.map((item, index) => (
+        <li
+          className='text-primary mb-2 cursor-pointer '
+          key={index}
+          onClick={scrollToForm}
+        >
+          Best IVF Centre in {item}
+        </li>
+      ))}
+  </ul>
+)}
+
         </div>
     )
 }
