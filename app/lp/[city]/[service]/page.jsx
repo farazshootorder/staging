@@ -127,6 +127,7 @@ export default function Page({ params }) {
         city = 'india';
     }
     const nearByCenters = useMemo(() => nearByAreas.find((center)=> center.center_name === city), [city]); 
+    console.log("nearbycenters", nearByCenters);
 
     const filteredCity = masterlp3.find((center) => center.center_name === city);
     // const filteredTestimonials = doctors.filter((testimonial) => {

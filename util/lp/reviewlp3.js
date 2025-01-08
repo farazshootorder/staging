@@ -8,7 +8,7 @@ const review = [
     "review": "Best IVF centre in hyderabad, strongly to go this center for fertility treatment",
     "name": "Renuk Renuka",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKUFBmfsV0gy5GjWQIRbizGSvVqX9KLPoI-Sp8cgi1M-hMSqZK=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@ const review = [
     "review": "Good fertility center in hyderabad excellent treatment ND service",
     "name": "Sintu singh",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIVWkQ_KRTiFGU5Mx1wMahJVldAaVpjEMH3WieUj6iPFz3_Qg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@ const review = [
     "review": "Best Fertility Center in Hyderabad and Best IVF (ivf) Centre. Thank you Avanti Ma'am for telling us everything well. Babu was born after many years. Very happy. Gachibowli Oasis Best Hospital.",
     "name": "Kaniki Shekar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLipXYIcAPExyu_HZLcNechNkVeyScHkmBmOeiAm_22ckyP=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@ const review = [
     "review": "Very good doctors team, Dr. Aruna madam Dr. Meera jindal mam.one of the best fertility hospital in Hyderabad.. And all staff are very good response to our issues. We suggest this hospital who r suffering with fertility issues..they are respond any time for our issues.. We will see best results in this centre.. Thank u Oasis team....",
     "name": "Suresh kumar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIBlp50QG-BxCQL-SERBc6R9AqN9wt2RZWT2I4OpYOMw3xnCA=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@ const review = [
     "review": "I really thank for the Oasis fertility and the Dr.Aruna mam for supporting me in everything which made my life as a happy and joyful.Thank you once again for all the staff and Oasis fertility.",
     "name": "Syed imran",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU0Ih1RfqswCQ6DynBsTGux-pBpX02w7Bu9dzDodAsX3SBg7xHU7A=w60-h60-p-rp-mo-ba2-br100",
-    "null": null
+     
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@ const review = [
     "review": "Best fertility center in Banjara hills..I'm very happy for my positive news.thank you oasis",
     "name": "Nandini Gubba",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJMuILKHklgB4gAnuofZ3OFrlF5r6F62uoxVfw2kQ6gOhbHBQ=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@ const review = [
     "review": "Very good oasis fertility Banjara hills",
     "name": "someswara rao teppala",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJmn2AuP2RSwVcihiMoFp_9WWguCP8ohhesBFo8Lz6Z9_bOubg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@ const review = [
     "review": "I visited Oasis Fertility Hospital at Banjara hills on 19th Oct 2024 for doctor appointment and suggestions to plan for kids. My experience was overall good . The Reception staff ,Doctors were helpful. The facilities were clean but waiting area was much suffocating due to lack of Fans or Air conditioning. I would recommend this hospital if you are looking for a hospital in Hyderabad to plan for kids.",
     "name": "Upender Gali",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWO_ovn6diLSrr6x5dBxi2C0fQOPIb_YbUt_5346gm7mlcnGqZl=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 9,
@@ -96,30 +96,30 @@ const review = [
     "review": "Best ivf treatment  thank you Dr Durga Rao madam and Dr Lakshmi madam and staff also thank you soo much in a",
     "name": "Umeera Khan",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJw9BIkRtWFE1BgAZ3cpMMABe2DE3xKeuyiPaURgKPjAxJNSg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "few months ago i become a mother iam so happy",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": 10,
-    "review_link": "https://maps.app.goo.gl/9ymNTPreHnuhRpBs7",
-    "center_name": "banjara hills",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "few months ago i become a mother iam so happy",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": 10,
+  //   "review_link": "https://maps.app.goo.gl/9ymNTPreHnuhRpBs7",
+  //   "center_name": "banjara hills",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 11,
     "review_link": "https://maps.app.goo.gl/Fqz3rDx5KXfc9JwQ9",
@@ -129,7 +129,7 @@ const review = [
     "review": "Good service and good consultation Explanation of treatment by the doctor and staff care is so good Please prefer oasis gachibowli who ever is suffering from infertility Thank you",
     "name": "Aaliya Sheikh",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaryLP-qAbGfBXYjLtdaQi58njQC1hz2T-zOdhn2tyV9pptEe2Tw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 12,
@@ -140,7 +140,7 @@ const review = [
     "review": "IVF process is good 100% is successfuly iam so happy thank you to Oasis fertility Gachibowli branch",
     "name": "Lekhan Naga",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5mA_d95nPa0fHlv9ncDPrqwECj6JM2LGpP8wrGZ7B46HdXA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 13,
@@ -151,7 +151,7 @@ const review = [
     "review": "బెస్ట్ ఫర్టిలైటీ సెంటర్ ఇన్ హైదరాబాద్ అండ్ బెస్ట్ ఇవఫ్ (ivf) centre. థాంక్యూ అవంతి మేడం మాకు బాగా అన్ని చెప్పి చేసారు. మాకు చాలా సంవత్సరాలు తర్వాత బాబు పుట్టారు. చాలా సంతోషం గా ఉంది. గచ్చిబౌలి ఓసిస్ బెస్ట్ హాస్పిటల్.",
     "name": "Kaniki Shekar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLipXYIcAPExyu_HZLcNechNkVeyScHkmBmOeiAm_22ckyP=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 14,
@@ -162,19 +162,19 @@ const review = [
     "review": "Gachibowli oasis is best hospital for IVF. I am really very happy after consulting oasis Gachibowli. Doctor Avanthi mam is very experienced and helpful for all type of fertility issues.",
     "name": "Lakshmi Sarada",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJdA5mFa1KosgA1bVPQqhMPUKmCwtPMxHRivQiwfUSABq-FTA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": "https://maps.app.goo.gl/AdFFTD2Qaqkn2aTU6",
-    "center_name": "gachibowli",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": "https://maps.app.goo.gl/AdFFTD2Qaqkn2aTU6",
+  //   "center_name": "gachibowli",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 15,
     "review_link": "https://maps.app.goo.gl/FNwAv61a6Km2EcMq5",
@@ -184,7 +184,7 @@ const review = [
     "review": "It's a great fertility clinic at dilsukh nagar Dr.sai Manasa madam is the best fertility expert with great experience we are so happy and greatful to have the good fertility treatment and conceived . the entire team so helpful and jovial we felt like it is not hospital they treated us as a family I really recommend my friends and family for fertility issues",
     "name": "Rajitha",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI-ED_3STq78dZjSdAzoq1vnownZ1JgknPExw26IZZOOgDXKg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 16,
@@ -195,7 +195,7 @@ const review = [
     "review": "Best fertility treatment I have never seen this type patience receiving. Thank you all",
     "name": "Tulasi Vinnu",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMgoqB8uNKk6gRD6JQQRM7zTcjdcSkoRyWOcr7OLaj99sCWA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 17,
@@ -206,7 +206,7 @@ const review = [
     "review": "Dr.Sai manasa mam is very kind and best motivator I referred those who r suffering with infertility prblm Thank you",
     "name": "gavvala Srinivas",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMMs_ocH0w9LsaqPdWN8jhI8p_cL8N7XyTbuApk4gmDKAX3w=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 18,
@@ -217,19 +217,19 @@ const review = [
     "review": "Nice hospítàl service is excellent àñd dr.saimàñasa garu thank you so much for your advice in treatment thanks",
     "name": "Vislavath Nagesh",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ9Qp7s-4bJ0dfz37DSbOvkfuCMl7XPdNuBqvMd3D0yPDTM2A=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 19,
-    "review_link": "https://maps.app.goo.gl/CMsNz4PVL9SwudVF7",
-    "center_name": "dilshuknagar",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 19,
+  //   "review_link": "https://maps.app.goo.gl/CMsNz4PVL9SwudVF7",
+  //   "center_name": "dilshuknagar",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 20,
     "review_link": "https://maps.app.goo.gl/sCsGYqhc3PbV1mMFA",
@@ -239,7 +239,7 @@ const review = [
     "review": "Best treatment from Dr. Parinaaz mam and well supporting staff at Oasis fertility centre secunderabad",
     "name": "Harikrishna Boini",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKGrowOzdEQfyrpQbX110iIpuIj3ZedlLv3scrurCilai75rg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 21,
@@ -250,7 +250,7 @@ const review = [
     "review": "Thankss for the wonderful Time spend in oasis Secunderabad for IVF treatment. Parinaaz Mam thank u less enough Snigdha mam bhavsya mam thanks to u all for al d love care respect and tht smile u people gave on my face❤️team and staff the best polite obedient and most caring i willl misss u alll the most😘😘lovee u all",
     "name": "hardik mehta",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwXRLZFbaSm3J8S-48YPzvt53xlgzY5A92PAcC2aCsLTUREg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@ const review = [
     "review": "Best fertility center in securenderabad ,doctors are very good responding even in phone calls , sisters are very good receiving and we went to hospital they give beautiful smile .Thank you so much for the entire doctors and staff for taking care🥰🥰",
     "name": "syamala ramu",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWqVoW6QXFyc0tGSejh39vXYp61SqVH_6WDt4eyRZtgSKQsgzaI=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 23,
@@ -272,19 +272,19 @@ const review = [
     "review": "Thank you very much for helping us with best journey. Special thanks to Dr.Parinaaz mam and staff .",
     "name": "Gangula",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIxFQjkN6BhNFYe0QUZJ3zTa7ZmPMsRAINfGQTu7xcwSxrpDQ=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 24,
-    "review_link": "https://maps.app.goo.gl/nVd11iMA3c3raVFt6",
-    "center_name": "secunderabad",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 24,
+  //   "review_link": "https://maps.app.goo.gl/nVd11iMA3c3raVFt6",
+  //   "center_name": "secunderabad",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 25,
     "review_link": "https://maps.app.goo.gl/cdpjmbj96MQyrvcz8",
@@ -294,7 +294,7 @@ const review = [
     "review": "I really recommend Oasis Miyapur. Dr. Vara Lakshmi Madam and her team put best efforts in every step. Staff behaviour was good. Thanks to Oasis",
     "name": "hari brahmeswara reddy Kovvuri",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcTSSs5eIUWMrOMgpjPQgSAkx5Y58IRPVDhVGSsm-ivm3er8q-=w56-h56-p-rp-mo-ba4-br100",
-    "null": null
+     
   },
   {
     "id": 26,
@@ -305,7 +305,7 @@ const review = [
     "review": "I'm very much happy with oasis fertility hospital miyapur branch Special thanks to dr varalaxmi , dr mrudhula, dr kumari and supporting staff ❤️ I recommend this hospital.",
     "name": "anusha bontha",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK2Rg4DEzwEbqSfXri9_umr7sx-BVW6l21kua4STaSYwKZ_0w=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 27,
@@ -316,7 +316,7 @@ const review = [
     "review": "Best IVF & IUI Fertility Center in Hyderabad... special thanks to Dr varalakshmi madam and Team and staff are very professional",
     "name": "navaneethrao 2211",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKTpj2xInuEhuIBMrsrTvhQl5zOMoPsdj4vFgl-ECbUlzqHBw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 28,
@@ -327,19 +327,19 @@ const review = [
     "review": "I have been under treatment with DR.Shyamla and team and i am ever greatful and thankful for their support and patience. The entire team, staff and doctors are too kind n supportive.",
     "name": "Shirley George",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUmLGJZ9Lzd-qILCt4gdLl6M7xL743q4BoiVJhHy09GdE2BH5bhWQ=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 29,
-    "review_link": "https://maps.app.goo.gl/Srv21mbUwRRhoyXe8",
-    "center_name": "miyapur",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 29,
+  //   "review_link": "https://maps.app.goo.gl/Srv21mbUwRRhoyXe8",
+  //   "center_name": "miyapur",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 30,
     "review_link": "https://maps.app.goo.gl/5XGSjn2JekPiXf1S9",
@@ -349,7 +349,7 @@ const review = [
     "review": "Best decison of our lives was to consult Meera ma'am. We had approached with minimum to zero hopes and ended up conceiving early than expected. Staff was very amicable and experienced. Thanks to Oasis kompally..",
     "name": "Jarupula Vanditha",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViJX9oQ9qwkdEpIgLUMQ4ij65aQ6lwQSMRhJynRW6r85umOgYR=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 31,
@@ -360,7 +360,7 @@ const review = [
     "review": "చాలా బాగా రిసీవ్ చేసుకున్నారు చాలా కేర్ తీసుకున్నారు నేను ఒయాసిస్ వెళ్లిన తరువాత కచ్చితంగా మకు సాక్సేస్ అవుతుంది అని నమ్మను అది నిజం అయ్యింది అది ఒక good experience thank s to oasis kompally centar team thank you Dr Meera medam",
     "name": "pavan thati",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVus2iJKmiCvpXBr9o8gWNDBDgCd26yTQUy2bpoq7HlY2-V_fSyew=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 32,
@@ -371,7 +371,7 @@ const review = [
     "review": "Respected Madam , I first thank you Meeera madam and Jayashree madam taking care of me and supporting me and making success in my IVF treatment thank you all team of Oasis Fertility Centre",
     "name": "Nikhila lawrence",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsybpfkPVMgjB5LpelV4vwSJyQgI2bY6D2euBuYTkzr6D-TxTE=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 33,
@@ -382,19 +382,19 @@ const review = [
     "review": "Received very well and took great care. I didn't believe that we would be successful after going to oasis. It was true. It was a good experience. Thank you to oasis kompally centar team. Thank you Dr Meera medam.",
     "name": "Pavan thati",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVus2iJKmiCvpXBr9o8gWNDBDgCd26yTQUy2bpoq7HlY2-V_fSyew=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 34,
-    "review_link": "https://maps.app.goo.gl/Sbr1azm3Urt7hQL47",
-    "center_name": "kompally",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 34,
+  //   "review_link": "https://maps.app.goo.gl/Sbr1azm3Urt7hQL47",
+  //   "center_name": "kompally",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 35,
     "review_link": "https://maps.app.goo.gl/g9iymmWGKKB9HD978",
@@ -404,7 +404,7 @@ const review = [
     "review": "Good receiving from the staff.. Dr.Aruna madam gave nice treatment thank you so much oasis uppal..",
     "name": "vinod kumar aitipamula",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV2-uEOl8kSmfKYgIcKfQDjXQ9uSsoTPUNyd2SCVD6MCHDzPvE=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 36,
@@ -415,7 +415,7 @@ const review = [
     "review": "We had great experience at oasis uppal Dr.Aruna Madam and team gave us lot of confidence from the start and it continued throughout the process.",
     "name": "Krishnamohan Kunthipuram",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLiolgNvVj1OjALIn9i0ZQ6G8RTjIKW9ALllx05hkq7Vt81Iw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 37,
@@ -426,7 +426,7 @@ const review = [
     "review": "We are very happy to take treatment at oasis fertility Uppal with Dr.Arun Mdam.She is easy to talk , very knowledgeable and quick to respond to our needs and requirements . Thank you Oasis",
     "name": "Poolapalli Chinnari",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJkDO8eKvwFMo64UNbC13KvZJ7FtnhcUqe8-Ec1dGOFL1u9kg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 38,
@@ -437,19 +437,19 @@ const review = [
     "review": "Best service and care given her there happy for taking treatment here at oasis uppal",
     "name": "Navya Jonnadhula",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJVH0o6Q7Cer9XUrE4tcn5Qub7iiuuSZTZB4ThDlG79K7Cm9w=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 39,
-    "review_link": "https://maps.app.goo.gl/3bDFMm5gHztkL7Fv9",
-    "center_name": "uppal",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 39,
+  //   "review_link": "https://maps.app.goo.gl/3bDFMm5gHztkL7Fv9",
+  //   "center_name": "uppal",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 40,
     "review_link": "https://maps.app.goo.gl/3SfsZZWQmH8rbitX9",
@@ -459,7 +459,7 @@ const review = [
     "review": "Best fertility center in hanamkonda Dr.kavya mam very good treatment... good service thankyou oasis..",
     "name": "bala krishna",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW-lE6tP5h5DoUMNrfC71mwbGnpJgyi4zMAPW8bhO_5UXs7WJI7=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 41,
@@ -470,19 +470,19 @@ const review = [
     "review": "Dr.kavya mam very brilliant very helpful",
     "name": "Sahaja Anumala",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXByRF9BtPQJLMilntfi-2diMpcSNds9Sh8OXA4gxrhnJ9eA=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Thank you oasis . best fertility centre oasis hospital Hanamkonda...",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Thank you oasis . best fertility centre oasis hospital Hanamkonda...",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 42,
     "review_link": "https://maps.app.goo.gl/w2t8ti7hXmLpxq6B6",
@@ -492,41 +492,41 @@ const review = [
     "review": "Oasis is the best IVF centre in Hanumakonda with a married life of 10 years and facing issues of conceiving or pregnancy, that's the time when we heard about oasis fertility",
     "name": "Perne ravi",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXoCvr65gKKbQzQA7PSdBBbJhwbMQVwBHgLxkptBSRDCMhaJMs=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Wr have taken IVF treatment &in very Frist cycle we got positive..we are very happy from bottom of our heart",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Wr are very thankful to Dr.kavya Garu,,",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Doctors and staff....of oasis fertility best IVF centre",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Wr have taken IVF treatment &in very Frist cycle we got positive..we are very happy from bottom of our heart",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Wr are very thankful to Dr.kavya Garu,,",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Doctors and staff....of oasis fertility best IVF centre",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 43,
     "review_link": "https://maps.app.goo.gl/PwxwSTwERz6Y38CT9",
@@ -536,19 +536,19 @@ const review = [
     "review": "We are so grateful to dr kavya mam And her wonderful staff.we've been through this journey for 3 years and at dome point I almost lost hope!but dr kavya man went above and beyond for us and gave us hope;she,s supportive and very helpful.the nurses were very friendly and helpful as well. thank u soo much vasista mam for helping us alot Best ivf centre",
     "name": "Sathish yadav Sathish",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJrkoJZO2hgnJOnGH3W6H4qVNdyaJRd0FI_tMnEtSYvPS06Sw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 44,
-    "review_link": "https://maps.app.goo.gl/zL74d72C3PQJsgWV9",
-    "center_name": "Hanamkonda",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 44,
+  //   "review_link": "https://maps.app.goo.gl/zL74d72C3PQJsgWV9",
+  //   "center_name": "Hanamkonda",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 45,
     "review_link": "https://maps.app.goo.gl/zJBSZApFpMpoEvEZ8",
@@ -558,7 +558,7 @@ const review = [
     "review": "To Oasis fertility hospital, Karimnagar Full happy today,7years ago Iam pregnant iam not except today memory Irealy excited and fully happy Oasis staff, sister and doctors Thankyou somuch.",
     "name": "Bandi Mamatha",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ0aM72z0UR7aQxic9hXu43CGrS2P17Yevbx9t8jyCNOKXK0g=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 46,
@@ -569,7 +569,7 @@ const review = [
     "review": "Doctors were very supportive.... Hospital environment was very good... Good staff and good quality treatment provided....the best hospital in karimnagar....",
     "name": "Prashanth Chinni",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUnL9m4u_IdKx-SjsRaD9t9aLs4I4V7xEux7VQEudM6a-oKJ88=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 47,
@@ -580,7 +580,7 @@ const review = [
     "review": "Thank you oasis Karimnagar ,Dr jigna mam and all staff . Finally I hearing good news after so many years. We had visited many hospitals but no results. But we came to oasis fertility Karimnagar branch 6 months back and I am now pregnant with IVF treatment.Thank you each and everyone. Regards ANUSHA",
     "name": "Akula Sandhyarani",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLHPl6BT1EvaonPBmfn_oq04Sy8iH2l_s2mw3m1Lb7KpjfEzg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 48,
@@ -591,19 +591,19 @@ const review = [
     "review": "Hlo Oasis. am here to Thank you all the staff and management for your treatment & the way you cared to give us such a beautiful twin boys and made our lives more colourful.we wish you to grow more and have a happy journey ahead...once again thank you soo much each and everyone 🙏.",
     "name": "Hari Photography Hari Photography",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxY-cxqfttf7WPYFG_uJ8lu3TQbQB_-JSKsUndoyS1XJuT0c7QzA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 49,
-    "review_link": "https://maps.app.goo.gl/W6dGUxKXYft35zcU6",
-    "center_name": "karimnagar",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 49,
+  //   "review_link": "https://maps.app.goo.gl/W6dGUxKXYft35zcU6",
+  //   "center_name": "karimnagar",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 50,
     "review_link": "https://maps.app.goo.gl/RPhq128i2Q6VkjQM7",
@@ -613,7 +613,7 @@ const review = [
     "review": "Good sevices from lower department to higher department they treat patient as a family member thq oasis team vijaywada and good support from doctors to entire team. Dr. Sujatha garu is well experienced in fertility treatments and she takes care of each and every patient with utmost care. They provide us customised protocols which suits us. We succeeded in our first IVF cycle. Definitely recommend for fertility treatments.",
     "name": "Kotha Mrudula",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLS4kVGN-UiZSIqZuilE5y1fDAGhft6zZE3ljp97H-pCjHoIw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 51,
@@ -624,7 +624,7 @@ const review = [
     "review": "Very good hospital and team works very good. Success rate is very high. Im the one who under went treatment here and it was successful within very short time. I strongly recommend and advise Oasis fertility in Vijayawada and get the successful treatment within your reach. Thank you doctor Sujatha madam and her team for all your treatment. I'm very happy.😊",
     "name": "DUBBA SUNIL",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXK7SlU5nnePsEC1y0A3OVEOXdDU8tmkZgWZaTIckV_kuicKLW-aw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 52,
@@ -635,7 +635,7 @@ const review = [
     "review": "Had a wonderful experience with this centre.The entire staff was incredibly supportive, empathetic and understanding. They took time to listen to my concerns and tailored a treatment plan specifically for my needs. Really a best choice for infertility issues. Advanced fertility treatments available for each and every concern.",
     "name": "Siva sai kumar",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWtp1oTxQQ8CEo7iHXuLWYftp7gaVcnadSE6ZJGm0_-lnd3oq8=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 53,
@@ -646,19 +646,19 @@ const review = [
     "review": "Very nice services receiving also good and dr Sujatha madam is very friendly nature all about services are very good at fertility services",
     "name": "Sandhya Dodla",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIY9Q890869J-EYPfc6nECGVJYyM_vv3-5MbwVBQmhr3U-wSg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 54,
-    "review_link": "https://maps.app.goo.gl/aMMHGWkWbmPb3Q8B7",
-    "center_name": "vijayawada",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 54,
+  //   "review_link": "https://maps.app.goo.gl/aMMHGWkWbmPb3Q8B7",
+  //   "center_name": "vijayawada",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 55,
     "review_link": "https://maps.app.goo.gl/p6Bpv6NSXUbPn2NLA",
@@ -668,7 +668,7 @@ const review = [
     "review": "Very big thank you to Our lovely Dr. Radhika Mam.. Had our IVF treatment successfully at the very first Attempt.. We will definitely recommend many referrals to Madam .. Staff are very nice to each n every pt. Here everyone has Patience to clarify our too many doubts..",
     "name": "Gummala darababu",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIw-OEqRYyxaLo_9pYPfh8swi9WPIFIyhOZEEMHV8or7mQ5dw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 56,
@@ -679,7 +679,7 @@ const review = [
     "review": "Excellent care from doctors and staff , very good success rates .Have a great experience for my family members. We are Thankful to Dr.Radhika mam.😊",
     "name": "Yarra Vandana",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW0JKaRLeyFha_xEjU0t_iMrAIbM7hjcsyTjGm05rIbuyAe8WEi=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 57,
@@ -690,7 +690,7 @@ const review = [
     "review": "Thank you somuch Radhika madam and oasis fertility staff. Finally We got positive result in our journey.",
     "name": "Kamesh Royistan",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXVxWnMxcUPeERYbdEhnyB80CdoL5VWAPl6l4mUEWU2lNNpu5YlRw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 58,
@@ -701,19 +701,19 @@ const review = [
     "review": "Thanks to Dr Radhika mam now conceived with Ivf for the first time I am really thankful to oasis the best place for fertility treatment.",
     "name": "KASINA SUGUNA",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKVU_MH5HafV6WV_d8NSN3pq-84_n6rfEFvc1E8jOzn94F7GA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 59,
-    "review_link": "https://maps.app.goo.gl/TakVFJpUTe6o7xv77",
-    "center_name": "visakhapatnam",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 59,
+  //   "review_link": "https://maps.app.goo.gl/TakVFJpUTe6o7xv77",
+  //   "center_name": "visakhapatnam",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 60,
     "review_link": "https://maps.app.goo.gl/dbt3NggMRuAmeU3E8",
@@ -723,7 +723,7 @@ const review = [
     "review": "Who want to conceive, should consult oasis we got success, after marriage 7 years my dream fullfill with oasis guntur, thank you dr ramya mam, at first attempt in IVF .",
     "name": "ISTIKHAR 340",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKCWeHIGgh6u9isiJ-NQnop8nEDZ-uATxwK2auiAavA-xAFeA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 61,
@@ -734,7 +734,7 @@ const review = [
     "review": "We are very very happy with oasis guntur, we got success at first time ivf we are very thankful to Dr Ramya mam and all the staff . Really very carring and supporting explaining all are very good best for fertility treatments",
     "name": "Nisha Shaikh",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ2kEqiIdh8rbDHtQFVw1sXlFMS_OeQ3Z6_wGxrTK_ocqsjRw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 62,
@@ -745,7 +745,7 @@ const review = [
     "review": "Best IVF centre in guntur. Dr. Ramya helped us to give birth to twins in first attempt itself. Thankyou so much for ur services",
     "name": "Lovaraju Madda",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUZI3FpS9kIPN5mnf-cyTgE9GOLHptYPDOY5j1PTvMVg4eSlWA2=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 63,
@@ -756,19 +756,19 @@ const review = [
     "review": "We are very happy, we got success in ivf first attempt, marriage life 7 years thank u Dr Ramya mam and all staff best for fertility treatment, we strongly recommend",
     "name": "Gudimella Vasavi sujatha",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIlB6BtSJ16RCzhV6MGbbrm1TrMBHTllesABNkkrIxxpQ_lKw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 64,
-    "review_link": "https://maps.app.goo.gl/p2pFqAnNZMQz9mda7",
-    "center_name": "guntur",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 64,
+  //   "review_link": "https://maps.app.goo.gl/p2pFqAnNZMQz9mda7",
+  //   "center_name": "guntur",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 65,
     "review_link": "https://maps.app.goo.gl/5gxg9jhvZUVndE9u7",
@@ -778,7 +778,7 @@ const review = [
     "review": "We are very happy to share this good news to all. We r going to enjoy our parenthood. This is only because of Dr.Deepika mam. Oasis fertility Ongole branch has made all our dreams true. Thank you Oasis.",
     "name": "Sulthan Sk",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLjZJura-jRNkBjDYtXp1YUE0vU01Hqjn9t7gDxhSxLfwJVig=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@ const review = [
     "review": "Thanks to Dr.Deepika Madam &all Oasis staff Ongole I want to share my experience to achieve my dream of parenthood. Today we are very happy for parenthood , team Oasis IVF centre Ongole helped me a lot",
     "name": "Vijaya Lakshmi",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKdz6BWe7V3GkKVStPW-d_McqgFYt4Fe2jtYYCgfM1Nc8yyoA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 67,
@@ -800,7 +800,7 @@ const review = [
     "review": "Good IVF Center ,Ongole Dr.Deepika Madam very cool and knowledged Person .",
     "name": "Upas Front Office",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqy1Ifrbz-sMhVQ8jOV4kLzs1tNvsuny5lgHISMeAbIUXX-Q=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 68,
@@ -811,41 +811,41 @@ const review = [
     "review": "Very thanks to deepika mam and embryology team.",
     "name": "Venkata lakshmi",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWI2GH8fvByA2s-rjm9OgQcf_gDgRY7XbZGXVimk-bBNgK5gQUH=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Conceived with  uterine linning of 6 mm thickness.",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": 69,
-    "review_link": "https://maps.app.goo.gl/WbiWXdtTPqa5UikY9",
-    "center_name": "ongole",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Conceived with  uterine linning of 6 mm thickness.",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": 69,
+  //   "review_link": "https://maps.app.goo.gl/WbiWXdtTPqa5UikY9",
+  //   "center_name": "ongole",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 70,
     "review_link": "https://maps.app.goo.gl/DSiWfWy5L3tmGMqq8",
@@ -855,7 +855,7 @@ const review = [
     "review": "One of the best hospital in tirupati, Dr Pallavi madam shows particular concern about patients, treatment is very good in this hospital,Best IVF center in tirupati , Pharmacy staff and Reception staff are responding very quickly.",
     "name": "USHA NALLAPAREDDY",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-2YAQLOakjWHiTvytLyANuo1b41YunzzHTMrutSR1y3VpsA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 71,
@@ -866,7 +866,7 @@ const review = [
     "review": "I have been to Oasis and it was a great experience with Dr. Pallavi mam as every detail of communication regarding treatment and scans are noted and been taken care by her in a very polite way. also its one of the best center in tirupati.",
     "name": "Divya K",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIh0moEZM9Jfu-Z4pO03_ThQlFggGbXHvOcPLakeZC9tYHPXRKX=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 72,
@@ -877,7 +877,7 @@ const review = [
     "review": "Satisfied treatment from Dr.Pallavi mam.best IVF center in tirupati.Thanks to the team.",
     "name": "Kiran Teja",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVPlg-FteaQdQLj_woNS4OS9UmcwW0BH6Ig5oUkRKVf0mxRFrk=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 73,
@@ -888,19 +888,19 @@ const review = [
     "review": "Best IVF center in tirupati.Whole oasis staff supported alot.specially Dr.Pallavi mam treatment is \"THE BEST\".",
     "name": "Sarah",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJAdbdA0Uy_bqDtq5ML-IhsWBaRNNWPXGaeh-_P5cOOprdX6w=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 74,
-    "review_link": "https://maps.app.goo.gl/5FfEgLxXgR8UtDhK6",
-    "center_name": "tirupati",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 74,
+  //   "review_link": "https://maps.app.goo.gl/5FfEgLxXgR8UtDhK6",
+  //   "center_name": "tirupati",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 75,
     "review_link": "https://maps.app.goo.gl/TUi1nzMLia3mfQhE7",
@@ -910,7 +910,7 @@ const review = [
     "review": "Oasis fertility is the best hospital with standard treatment options available here, vijayalakshmi madam is so friendly and she listens to our concerns patiently suggests perfect treatment.... Staff also very responsive...",
     "name": "srikanth sri",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJV0CbscHMoi8u1hCrFTgJe-jBE18h7cyY7tZAba3nO6IjjY96z=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 76,
@@ -921,7 +921,7 @@ const review = [
     "review": "Good fertility center for IVF center thanks to dr vijaya Lakshmi madam and team my wife got pregnant in these center me and family so happy for these result",
     "name": "Madhusudan naidu Pathipati",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJJqeZyvFm1fC9s5Wy35_EqRjG5jAHujaRg7SDrqIg-u9dblw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 77,
@@ -932,7 +932,7 @@ const review = [
     "review": "Good fertility center in kurnool from frontdesk team receiving with smile and dr.vijayalakshmi madam treatment explained very well",
     "name": "Vasanth Appapogu",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKqcRkT75CGLsu44io3o73xFfGLta_9biNXnBfuaOYo0LszSw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 78,
@@ -943,19 +943,19 @@ const review = [
     "review": "I knew Swathi since 2018.. Her knowledge on makeup and cosmetics is good.. She suggests what's good for our looks and skin accordingly.. Kudos to her efforts and her selflessness..",
     "name": "Gowthami Gowni",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIfG_ONIOQqjrx7OExlhmR__iP_5KVoJ6Jw9tZC2dbJzJqMbCu=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 79,
-    "review_link": "https://maps.app.goo.gl/wnNHNZcuGWSQBSHp7",
-    "center_name": "kurnool",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 79,
+  //   "review_link": "https://maps.app.goo.gl/wnNHNZcuGWSQBSHp7",
+  //   "center_name": "kurnool",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 80,
     "review_link": "https://maps.app.goo.gl/kVN2F8wwg7fYwNfT9",
@@ -965,7 +965,7 @@ const review = [
     "review": "Really very gratitude and thank you so much Dr Rekha viswanath mam.she was really very help us .cool attitude and positive spirit.3 years of struggles and huddles finally our dream fullfill. Thank you so much Oasis fertility and team.",
     "name": "haribabu tata",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJGNAbwp_l1bJcENwg1tG9Y5Nr4ZlHjFneKljumt5OLUJc2zwQ=w56-h56-p-rp-mo-ba3-br100",
-    "null": null
+     
   },
   {
     "id": 81,
@@ -976,7 +976,7 @@ const review = [
     "review": "One of the best IVF hospital which I have been, and doctors are so good and well trained and matured. Staffs are good and polite. Very hygiene. We just started the treatment hoping for the best results.",
     "name": "Sumon Laskar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKbxVIncIvGGMCydXmsvR9VqGexuzyNOF1Y93CWTT8Fd2B3RA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 82,
@@ -987,7 +987,7 @@ const review = [
     "review": "It's very good IVF centre in bangalore.doctor Shalini is very experienced in good .thank you for entire team.",
     "name": "NavithaM NavithaM",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUlN4o3xhycMK7e6eFmN5xobNFkvbzkMTttXJ8JZhIXa5DUcgw5lA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 83,
@@ -998,19 +998,19 @@ const review = [
     "review": "Iam very happy to say that dr Shalini is very well experienced doctor.good spoke person and make u understand things after 10years of our marriage.we get satisfaction here.",
     "name": "Shireen Shariff",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLllXJDL20xxHz7E6T4CDm2Qpt1HFt9_b8e87_z55bbvr1a0A=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 84,
-    "review_link": "https://maps.app.goo.gl/PNwNJxNKAYBTghzcA",
-    "center_name": "Bengaluru",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 84,
+  //   "review_link": "https://maps.app.goo.gl/PNwNJxNKAYBTghzcA",
+  //   "center_name": "Bengaluru",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 85,
     "review_link": "https://maps.app.goo.gl/kVN2F8wwg7fYwNfT9",
@@ -1020,7 +1020,7 @@ const review = [
     "review": "Really very gratitude and thank you so much Dr Rekha viswanath mam.she was really very help us .cool attitude and positive spirit.3 years of struggles and huddles finally our dream fullfill. Thank you so much Oasis fertility and team.",
     "name": "haribabu tata",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJGNAbwp_l1bJcENwg1tG9Y5Nr4ZlHjFneKljumt5OLUJc2zwQ=w56-h56-p-rp-mo-ba3-br100",
-    "null": null
+     
   },
   {
     "id": 86,
@@ -1031,7 +1031,7 @@ const review = [
     "review": "Thanks to Dr. Rekha Vishwanath for the complete guidance and support. After years of struggle, we were finally able to get the results. Thanks to the staff for always being available and understanding the needs.",
     "name": "Neha Vernekar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKvLgY_zs3qj6XLcl9D39IsKTCux5Cr7wEPyw8_1OTBs1fDrw=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 87,
@@ -1042,7 +1042,7 @@ const review = [
     "review": "Thanks to oasis for all the support. We have gone through a lot before coming here. Since when we started taking treatment from oasis hospital really given me a positive vibe.We are really happy to share this review.",
     "name": "Manikeshwari K",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKLdL9IMtSrXEVOoE-h0Vwf9ghAlLbVbkdoF1nn8GV6koWaS5Jv=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 88,
@@ -1053,19 +1053,19 @@ const review = [
     "review": "One of the best IVF hospital which I have been, and doctors are so good and well trained and matured. Staffs are good and polite. Very hygiene. We just started the treatment hoping for the best results.",
     "name": "Sumon Laskar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKbxVIncIvGGMCydXmsvR9VqGexuzyNOF1Y93CWTT8Fd2B3RA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 89,
-    "review_link": "https://maps.app.goo.gl/rzKf7k5FTDLuQ1yr6",
-    "center_name": "HSR",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 89,
+  //   "review_link": "https://maps.app.goo.gl/rzKf7k5FTDLuQ1yr6",
+  //   "center_name": "HSR",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 90,
     "review_link": "https://maps.app.goo.gl/tb1WxbCLsZ7Ry1qH7",
@@ -1075,7 +1075,7 @@ const review = [
     "review": "Good environment and support staff were caring. doctor well knowledgeble .highly recommend",
     "name": "Rs Gowda",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWeCA_Yq1YVje93tm3C0gPCkQLNBzI7XSOh-0PwClZGNCDKvCv6=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 91,
@@ -1086,7 +1086,7 @@ const review = [
     "review": "The staff and doctors at this hospital are highly professional and dedicated. They take good care of patients, providing proper guidance and support at every step, ensuring a comfortable and trustworthy experience.",
     "name": "Sadhana Naik",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXLGXX-iwMC3GAmK59zMIMask5-no_AzPbK4l4lh7lfslBJWs61=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 92,
@@ -1097,7 +1097,7 @@ const review = [
     "review": "Thank u so Oasis management for taking immediate action and addressing the issue…I hope such situation will not repeat.. We patients are coming to u based on the trust we have on doctors (Dr Sushma) and the friendly management staffs..keep continuing the good work…",
     "name": "Mohana Priya",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJMWp-PjgnCuIPjbMcPPH-AT_S_dW_kXb3SKW3SVtvWkBR6eg=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 93,
@@ -1108,19 +1108,19 @@ const review = [
     "review": "One of the best IVF hospital which I have been, and doctors are so good and well trained and matured. Staffs are good and polite. Very hygiene. We just started the treatment hoping for the best results.",
     "name": "Sumon Laskar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKbxVIncIvGGMCydXmsvR9VqGexuzyNOF1Y93CWTT8Fd2B3RA=w56-h56-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": 94,
-    "review_link": "https://maps.app.goo.gl/jQNpQd9rWt16WVA47",
-    "center_name": "banashankari",
-    "clinic_location": null,
-    "rating": null,
-    "review": null,
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": 94,
+  //   "review_link": "https://maps.app.goo.gl/jQNpQd9rWt16WVA47",
+  //   "center_name": "banashankari",
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": null,
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 95,
     "review_link": "https://maps.app.goo.gl/TJvLpiAsJuXGVmgD6",
@@ -1669,7 +1669,7 @@ const review = [
     "review": "Dr. Harika mam explained very well about treatment. I am very happy nice received and explained very well. Follow ups also done. I am very happy. I suggest visit oasis fertility hospital. Best Doctor fertility in suryaraopet vinayawada. Best fertility centre.",
     "name": "Syed Aslam",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVrw3lr-AP4JUpO450QVu8vgbAE8l2nnwsjSZV0kGZykNpIuWPK=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 145,
@@ -1680,7 +1680,7 @@ const review = [
     "review": "All thanks to oasis fertility tolichowki Dr keerthana and team that we have received positive results with in first cycle. All the staff is very humble and treat patients with such hospitality and kindness. Best IVF center we recommend to everyone please do visit.",
     "name": "Rasmita Bhuyan",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL7RjsD6XTxQvu3s_pkVVnPcB_QrkU0ysGezNaVsEEntA2Eng=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 146,
@@ -1691,41 +1691,41 @@ const review = [
     "review": "Best Fertility centre...keerthana Mam treated so",
     "name": "Anonymous",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFLBgGsqm78-DDCaeDAFKaULZ1_6znL83ANH8pM_dYw63VNwno=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "well...She is So Nice to me.She Gave Good",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Treatment..Here Staff from Every Department are so nice towards",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "us..I strictly Recommend this Hospital and Branch (Tolichowki)",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "well...She is So Nice to me.She Gave Good",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Treatment..Here Staff from Every Department are so nice towards",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "us..I strictly Recommend this Hospital and Branch (Tolichowki)",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 147,
     "review_link": "https://maps.app.goo.gl/zceKc7WbW3go4nbA9",
@@ -1735,7 +1735,7 @@ const review = [
     "review": "Dr.keerthana vemula suggested in best possible way really happy",
     "name": "Thakur Ajay Singh",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLK6RFTA_upzcJuanJtG5-uCzAJ9V1jXf9e24zIDV41smTGlA=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 148,
@@ -1746,7 +1746,7 @@ const review = [
     "review": "Every one is good and doctor keerthan mam and staff very good 👍",
     "name": "B Shyamal",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLua3a2CwgiZoy2B39cxyfBtSe6-PtpjInhgTcYw1dXo5_Reg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 149,
@@ -1757,41 +1757,41 @@ const review = [
     "review": "Super madam very impact and very  good hospitality  very good results with my wife",
     "name": "Mangali Shiva Shankar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLx4Kr6bddjPWAwytNEoZh2qUWI_RVc00cJM12to0mHTbrHmA=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "Refar to my brother in law",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "He was alredy results becouse of his sister there alredy proved she now doughter of baby thats way i will come",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "I am also poor results in my wife when i come here i was get best results 👌",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "Refar to my brother in law",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "He was alredy results becouse of his sister there alredy proved she now doughter of baby thats way i will come",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "I am also poor results in my wife when i come here i was get best results 👌",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 150,
     "review_link": "https://maps.app.goo.gl/LkpennaCTq9pzrxp7",
@@ -1801,7 +1801,7 @@ const review = [
     "review": "Good fertility for IVf treatment front office team receiving good",
     "name": "Ramu",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK6C8xhjjhM0D5pRITaG7I-BXBKslQ-bLN3UVfvn-PVKmj38g=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 151,
@@ -1812,7 +1812,7 @@ const review = [
     "review": "Good fertility for IVF treatment front office team receiving good",
     "name": "Malapuvu Laxmi",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJaOts5IAlivPNtLcQJT84FFKGzbl6o5WhXCghX4dqdtW7wZQ=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 152,
@@ -1823,7 +1823,7 @@ const review = [
     "review": "Good fertility for IVF TREATMENT front office team receiving good",
     "name": "Diy Art and craft ideas",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLoUMJ1M_BaGwpSY2a-RTm7EnB3DEeYFDg_n1C9HKXCtOwfYg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 153,
@@ -1834,7 +1834,7 @@ const review = [
     "review": "Good for IVf treatment front office team receiving also good treatment aso good",
     "name": "Deepika Reddy",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL7P5QLX4PscGoWcqHbN3yJRvRym751vka-EG-WUwYSTPscTg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 154,
@@ -1845,7 +1845,7 @@ const review = [
     "review": "Both of my pregnancies has been healthy, it was a heartwarming experience ❤️",
     "name": "Hania Mirza",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJOBTUPsPpjo1HVwpMCOkq-E1FwQ7Ht61C9YDvQ4gquN1ktog=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 155,
@@ -1856,7 +1856,7 @@ const review = [
     "review": "Cooperation with patience is extremely nice please going like this you will get more impact",
     "name": "DJ Varma Arlagadda",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2gQX_IgdC-eh0I3d93nd46dILG_9dvkNqFHpTdkrzkUn3gjrBRw=w60-h60-p-rp-mo-ba3-br100",
-    "null": null
+     
   },
   {
     "id": 156,
@@ -1867,7 +1867,7 @@ const review = [
     "review": "Good medical services with lots of care and patience. I will refer this hospital to others also.",
     "name": "Uday Munna",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWrykf1qoMFF-LVNHV3Et41l8xO5KmbPva1oWWJ8e511FOAFYYovA=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 157,
@@ -1878,7 +1878,7 @@ const review = [
     "review": "The best medical service..they treated very well with lot of patience nd explains everything clearly,.I would like to suggest this oasis fertility center to everyone who wanted to become parents.",
     "name": "Hema Akhil",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJLrqhoNkDnGYp2Ve1tFErEf6YjPh_Y573JtomxmnDyTCaiow=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 158,
@@ -1889,7 +1889,7 @@ const review = [
     "review": "This is the best hospital for good treatment, medicines, behaviour of all doctors,nurses and all staffs, and surroundings",
     "name": "Sarala Sankar",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJlA99oc-ead0RsuBXgJ1my5wcUDhU8lFYE3u0ilyXJglRe=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 159,
@@ -1900,7 +1900,7 @@ const review = [
     "review": "Oasis fertility centre is best ivf and iui centre. All doctor of treatment is great and all staff is good. We tried in many places but only disappointment came our way. But at Oasis centre, we got positive results in the first month itself. Thank u very much to Oasis 🙏",
     "name": "Rahul Gaikwad",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKTzSIB2YJOxgTFzunaAOIYUloob5u_7w5HRVldqBwUP0Bsdw=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 160,
@@ -1911,7 +1911,7 @@ const review = [
     "review": "Good for IVf treatment front office team receiving good",
     "name": "Sunanda D",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJbbztQUlUpYzItWvrjBNOfZBqmOy5SnFZs852qjUkDRILlfA=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 161,
@@ -1922,7 +1922,7 @@ const review = [
     "review": "Good for IVf treatment thanks to oasis team and doctors front office team receiving good",
     "name": "Peddasamanna Kurva",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJkXdQO6geePEVsgLpMEA_KQBKlRqmkLnF4KWQM5uJ6aXDQgQ=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 162,
@@ -1933,7 +1933,7 @@ const review = [
     "review": "Good fertility center for ivf and tks to doctor and front office team and tks to whole team",
     "name": "Md khadar Basha",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXcaY6sEdBlU7QvGIYN8DR3k60ApcTHnm8wAstgr_qQdOf7w=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 163,
@@ -1944,7 +1944,7 @@ const review = [
     "review": "Good for IVf thanks to oasis team and doctors front office team receiving good",
     "name": "Kothi Parashuramudu",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ2bAO-FTei0p6is1ZNYx6gvFv3-hAzwAtPHUAA8Y9t6e0Z1Q=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 164,
@@ -1955,7 +1955,7 @@ const review = [
     "review": "Most experienced doctor with highest success rates for IVF treatments. Best hospitality friendly staff.",
     "name": "MADHAVI GURAKA",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ5htb95Ym0TRHtBGRG5v1uXSekYHmHOATeijEtChtdIOj_i9Q=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 165,
@@ -1966,7 +1966,7 @@ const review = [
     "review": "The best fertility centre for sure in terms of treatment , the staff and the overall care good",
     "name": "Radapaka Prem",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocILVfliYb6HFVSm2wcrLLv3tvdCX2y7a0r4EwK5j9iEmZnoGw=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 166,
@@ -1977,7 +1977,7 @@ const review = [
     "review": "Oasis Fertility is the best clinic for IVF treatment. Our experience here with doctors & staff is really good, they are ver supportive.",
     "name": "Swati Kagwade",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLd2SY8K3ckj2XGfKGYAK-PuEz5aciHusNQJ2mfWv1atfNd7A=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 167,
@@ -1988,7 +1988,7 @@ const review = [
     "review": "Nice facilities, doctors are well experienced they are treating well and staff is very supportive.",
     "name": "Shanthipriya Kummari",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLId1eaBO1G75ERUTY8Vn8CXD3CzDB6i_Zk9y8kdPggNvlSqg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 168,
@@ -1999,7 +1999,7 @@ const review = [
     "review": "We just consulted the doctor experience is good, hopefully everything will be better and Staff are nice",
     "name": "Sunil Bantu",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRqAl8QdkrudxaIKXK8HY590cN0dKSC8yb9UC9qD-q32TYdrc2=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 169,
@@ -2010,7 +2010,7 @@ const review = [
     "review": "Loved my experience with Dr. Deepthi at Oasis Fertility Kakinada. Best care, staff very supportive, and a very comforting environment",
     "name": "ANWAR ATAR",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUOlO1jabJWl9ki1sSlXm_ulQjws73rDZMNjvR09UeMGxA5Zg4-bw=w60-h60-p-rp-mo-ba2-br100",
-    "null": null
+     
   },
   {
     "id": 170,
@@ -2021,7 +2021,7 @@ const review = [
     "review": "Best fertility center in madhurawada visited 3 months back.... Now I'm pregnant very much happy 😊 with my pregnancy journey thank you dr radhika mam and dr Vijaya Lakshmi garu highly recommend fertility center we took ivf treatment very much satisfied nd happy 😄 whole team reciving and every thing good staff very friendly",
     "name": "Satish tenela",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVifAWta3cOJIvJeIORvWM0TAF78lx0fS7ByE1ZgFCCE1I1C72W=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 171,
@@ -2032,7 +2032,7 @@ const review = [
     "review": "Best fertility near madhurawada thank you dr radhika mam for support",
     "name": "Kukkara Satyanarayana",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocILUpW5Axpo5XciXW9a9AlASjG3XY9Yp_Pw0Y8HcRdE9EcIlQ=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 172,
@@ -2043,7 +2043,7 @@ const review = [
     "review": "Today visited oasis Madhurawada branch thank you for explaining IVF treatment thank u oasis",
     "name": "Chinnari Manoj",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUHQAJhGX90M4MNijJMjX_3RQHarBqNe4vxNGWemXsb4N5YYfEs=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 173,
@@ -2054,7 +2054,7 @@ const review = [
     "review": "One of my friend refered oasis Madhurawada branch.... We r visited today dr explanation and staff recivng caring good thank u oasis waiting for fertility treatments",
     "name": "Sravani kilari",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLgjU-hWxW8doerLKckpY1yPzUy9OPo3spirSJDXz8XBKqxNw=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 174,
@@ -2065,7 +2065,7 @@ const review = [
     "review": "Best pla e for ivf treatment and fertility issues never seen this much care from other places thank u oasis madhurawada team and Dr Radhika mam",
     "name": "Phoina santhoshi",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJl61yxSQu7hyjfoPrQwDHrXHkN06IvukcQ4Zv2PRbt1r709A=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 175,
@@ -2076,19 +2076,19 @@ const review = [
     "review": "Excellent facilities and compassionate care at OASIS Hospital, making a significant difference in our journey to parenthood.",
     "name": "Rajendra Mothe",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWMEgexjQ1nlN0b41jXtSpkfz-QhplE6yNT7VJpMO4sYBuyNPHddQ=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "THANKS TO COMPLETE OASIS TEAM.",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "THANKS TO COMPLETE OASIS TEAM.",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 176,
     "review_link": "https://maps.app.goo.gl/htgKbA7dVvUH5uAm6",
@@ -2098,7 +2098,7 @@ const review = [
     "review": "Oasis Fertility is the best clinic for IVF treatment. Our experience here with doctors & staff is really good, they are ver supportive.",
     "name": "Swati Kagwade",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLd2SY8K3ckj2XGfKGYAK-PuEz5aciHusNQJ2mfWv1atfNd7A=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 177,
@@ -2109,7 +2109,7 @@ const review = [
     "review": "Nice facilities, doctors are well experienced they are treating well and staff is very supportive.",
     "name": "Shanthipriya Kummari",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLId1eaBO1G75ERUTY8Vn8CXD3CzDB6i_Zk9y8kdPggNvlSqg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 178,
@@ -2120,7 +2120,7 @@ const review = [
     "review": "We just consulted the doctor experience is good, hopefully everything will be better and Staff are nice",
     "name": "Sunil Bantu",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRqAl8QdkrudxaIKXK8HY590cN0dKSC8yb9UC9qD-q32TYdrc2=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 179,
@@ -2131,7 +2131,7 @@ const review = [
     "review": "All the Doctors are very professional, no language barriers, all in all great 👏🏻 👌🏻",
     "name": "Hyder Raza",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0MeB4BLTM2KjqYkqh61s4FUKxBaFuZdeYeLw03SsALuCCBw=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 180,
@@ -2142,19 +2142,19 @@ const review = [
     "review": "Excellent facilities and compassionate care at OASIS Hospital, making a significant difference in our journey to parenthood.",
     "name": "Rajendra Mothe",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWMEgexjQ1nlN0b41jXtSpkfz-QhplE6yNT7VJpMO4sYBuyNPHddQ=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
-  {
-    "id": null,
-    "review_link": null,
-    "center_name": null,
-    "clinic_location": null,
-    "rating": null,
-    "review": "THANKS TO COMPLETE OASIS TEAM.",
-    "name": null,
-    "profile_picture": null,
-    "null": null
-  },
+  // {
+  //   "id": null,
+  //   "review_link": null,
+  //   "center_name": null,
+  //   "clinic_location": null,
+  //   "rating": null,
+  //   "review": "THANKS TO COMPLETE OASIS TEAM.",
+  //   "name": null,
+  //   "profile_picture": null,
+     
+  // },
   {
     "id": 181,
     "review_link": "https://maps.app.goo.gl/htgKbA7dVvUH5uAm6",
@@ -2164,7 +2164,7 @@ const review = [
     "review": "Oasis Fertility is the best clinic for IVF treatment. Our experience here with doctors & staff is really good, they are ver supportive.",
     "name": "Swati Kagwade",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLd2SY8K3ckj2XGfKGYAK-PuEz5aciHusNQJ2mfWv1atfNd7A=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 182,
@@ -2175,7 +2175,7 @@ const review = [
     "review": "Nice facilities, doctors are well experienced they are treating well and staff is very supportive.",
     "name": "Shanthipriya Kummari",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLId1eaBO1G75ERUTY8Vn8CXD3CzDB6i_Zk9y8kdPggNvlSqg=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 183,
@@ -2186,7 +2186,7 @@ const review = [
     "review": "We just consulted the doctor experience is good, hopefully everything will be better and Staff are nice",
     "name": "Sunil Bantu",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRqAl8QdkrudxaIKXK8HY590cN0dKSC8yb9UC9qD-q32TYdrc2=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   },
   {
     "id": 184,
@@ -2197,7 +2197,7 @@ const review = [
     "review": "All the Doctors are very professional, no language barriers, all in all great 👏🏻 👌🏻",
     "name": "Hyder Raza",
     "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0MeB4BLTM2KjqYkqh61s4FUKxBaFuZdeYeLw03SsALuCCBw=w60-h60-p-rp-mo-br100",
-    "null": null
+     
   }
 ]
 

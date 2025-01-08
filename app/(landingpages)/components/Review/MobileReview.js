@@ -28,7 +28,7 @@ const MobileReview = ({ center }) => {
                                     activeIndex === index ? 'bg-white opacity-20' : 'opacity-0'
                                 }`}
                             ></div>
-                            <Image
+                            <img
                                 src={review.profile_picture}
                                 alt={`${review.name}'s profile`}
                                 className="w-12 h-12 rounded-full object-cover"
