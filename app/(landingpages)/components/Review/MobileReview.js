@@ -29,7 +29,7 @@ const MobileReview = ({ center }) => {
                                 }`}
                             ></div>
                             <img
-                                src={review.profile_picture}
+                                src={`/images/lp/review/profiles/profile_image_id_${review.id}.png`}
                                 alt={`${review.name}'s profile`}
                                 className="w-12 h-12 rounded-full object-cover"
                                 width={48}

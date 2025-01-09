@@ -8,7 +8,6 @@ const review = [
     "review": "Best IVF centre in hyderabad, strongly to go this center for fertility treatment",
     "name": "Renuk Renuka",
     "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKUFBmfsV0gy5GjWQIRbizGSvVqX9KLPoI-Sp8cgi1M-hMSqZK=w56-h56-p-rp-mo-br100",
-     
   },
   {
     "id": 2,
