@@ -324,6 +324,7 @@ const TreatmentsV2 = memo(({ center, service }) => {
 
                 {/* Treatments Carousel */}
                 <div className="w-full mt-8 lg:mt-10">
+                      <div className="">
                     <Suspense fallback={<ResponsiveSkeleton />}>
                         {isLoading ? (
                             <ResponsiveSkeleton />
@@ -331,7 +332,7 @@ const TreatmentsV2 = memo(({ center, service }) => {
                             <Carousel
                                 responsive={responsive}
                                 partialVisbile
-                                className="pb-16 lg:pb-20"
+                                className="pb-16 lg:pb-20 md:flex md:justify-center"
                                 infinite={true}
                                 showDots={false}
                                 ssr={false}
@@ -353,6 +354,7 @@ const TreatmentsV2 = memo(({ center, service }) => {
                             </Carousel>
                         )}
                     </Suspense>
+                    </div>
                 </div>
             </>}
         </section>
